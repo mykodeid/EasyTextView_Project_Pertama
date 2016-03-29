@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="Atur Tampilkan Text">
+    <PreferenceCategory android:title="Edit Tampilkan Text">
+        <EditTextPreference
+            android:key="keyeditisitext"
+            android:title="Edit Tampilkan Text"
+            android:hint="isi text"
+            android:summary="Mengedit Tampilkan Text"
+            android:dialogTitle="Ketikkan sesuatu disini . . . !"/>
+    </PreferenceCategory>
+</PreferenceScreen>
